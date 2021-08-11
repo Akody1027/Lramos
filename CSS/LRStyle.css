@@ -1,0 +1,52 @@
+﻿
+html{
+    background-color:black;
+}
+
+div.video1 {
+    position: fixed;
+    z-index:-1;
+}
+
+
+
+
+nav li {
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: whitesmoke;
+}
+nav a:hover{
+    color:aquamarine;
+    text-decoration: none;
+}
+nav a{
+    color: whitesmoke;
+    text-decoration:none;
+    font-size:35px;
+}
+
+
+h1 {
+    font-size: 130px;
+    color: whitesmoke;
+    text-align: center;
+    font-family: "Segoe Script";
+    font-weight:100;
+    margin-top:0px;
+}
+
+div.box1 {
+    
+    text-align:center;
+    color:white;
+}
+div.box2{
+    text-align:center;
+}
+div.zoom{
+    font-size:40px;
+    color:red;
+}
